@@ -1,2 +1,2 @@
-# repo-1
+# Test repository 
 Just testing GitHub
